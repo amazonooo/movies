@@ -146,6 +146,10 @@ img {
     font-size: 1.25rem;
 }
 
+.header__actions a {
+    color: #fff;
+}
+
 .header__actions i,
 .header__menu {
     cursor: pointer;
